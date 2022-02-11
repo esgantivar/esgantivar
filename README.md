@@ -1,6 +1,6 @@
 # Sneyder Gantiva
 
-Development and Software architecture Engineer at [Náutica Digital](https://nautica.app)
+Development and Software architecture Engineer at [NáuticaUX](https://nauticaux.com)
 
 MSc. (c) in Systems and Computing Engineering at Universidad Nacional de Colombia - Bogotá
 
