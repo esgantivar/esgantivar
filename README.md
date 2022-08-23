@@ -1,16 +1,14 @@
 # Sneyder Gantiva
 
-Development and Software architecture Engineer at [NáuticaUX](https://nauticaux.com)
+Software Engineer at [Bold](https://bold.co)
 
-MSc. (c) in Systems and Computing Engineering at Universidad Nacional de Colombia - Bogotá
+Systems and Computing Engineering at Universidad Nacional de Colombia - Bogotá
 
 
 ## Interests
 
 * Software Development
 * Software Architecture
-* Machine Learning
-  - [**MindLab**](http://www.ingenieria.unal.edu.co/mindlab/) - Machine learning, perception and discovery Lab
 * Frontend and Backend Technologies
 
 ## Contact
